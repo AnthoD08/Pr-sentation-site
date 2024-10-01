@@ -6,9 +6,12 @@
     <title>Document</title>
 </head>
 <body>
+    
     <h1>Mon portfolio</h1>
 
-<p>Bonjour, je m'appelle Anthony.</p>
+    <p>Bonjour, je m'appelle Anthony.</p>
+    
+    <p>Je suis développeur web.</p>
 
 
 
